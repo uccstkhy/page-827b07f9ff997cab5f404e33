@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.fnjjn.cn/sitemap.xml
